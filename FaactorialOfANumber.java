@@ -31,6 +31,16 @@ System.out.println("Fact is :"+fact);
 
 System.out.println("Making some change");
 
+
+/* Creating add functionality*/
+
+int a  = 10;
+int b= 12;
+int c = a+b;
+System.out.rpintln("Result is c: "+c);
+
+
+
 }
 
 }
